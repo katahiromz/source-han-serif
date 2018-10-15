@@ -11,7 +11,14 @@ Hereby, "CN" stands for Chinese (Simpilified Chinese), "JP" stands for Japanese,
 
 Please install [the Adobe Font Development Kit for OpenType (AFDKO)](https://www.adobe.com/devnet/opentype/afdko.html) before building Han Peace Serif.
 
-To build all, Double-Click the "Regular/build.all.cmd" batch file.
+To build all, Double-Click the "Regular/build.all.cmd" batch file. Then, the following 4 font files will be generated:
+
+```txt
+HanPeaceSerifTW-Regular.otf
+HanPeaceSerifCN-Regular.otf
+HanPeaceSerifJP-Regular.otf
+HanPeaceSerifKR-Regular.otf
+```
 
 ## Copyright Notice
 
