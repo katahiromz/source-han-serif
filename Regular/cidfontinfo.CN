@@ -1,13 +1,13 @@
-FontName                   (SourceHanSerifCN-Regular)
-FullName                   (Source Han Serif CN Regular)
-FamilyName                 (Source Han Serif CN)
+FontName                   (HanPeaceSerifCN-Regular)
+FullName                   (Han Peace Serif CN Regular)
+FamilyName                 (Han Peace Serif CN)
 Weight                     (Regular)
 version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
-Layout                     (AI0-SourceHanSerif)
-Subset                     (AI0-SourceHanSerif.CN)
+Layout                     (AI0-HanPeaceSerif)
+Subset                     (AI0-HanPeaceSerif.CN)
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150

@@ -1,13 +1,13 @@
-FontName                   (SourceHanSerifTW-Regular)
-FullName                   (Source Han Serif TW Regular)
-FamilyName                 (Source Han Serif TW)
+FontName                   (HanPeaceSerifTW-Regular)
+FullName                   (Han Peace Serif TW Regular)
+FamilyName                 (Han Peace Serif TW)
 Weight                     (Regular)
 version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
-Layout                     (AI0-SourceHanSerif)
-Subset                     (AI0-SourceHanSerif.TW)
+Layout                     (AI0-HanPeaceSerif)
+Subset                     (AI0-HanPeaceSerif.TW)
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150

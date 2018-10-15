@@ -1,13 +1,13 @@
-FontName                   (SourceHanSerifJP-Regular)
-FullName                   (Source Han Serif JP Regular)
-FamilyName                 (Source Han Serif JP)
+FontName                   (HanPeaceSerifJP-Regular)
+FullName                   (Han Peace Serif JP Regular)
+FamilyName                 (Han Peace Serif JP)
 Weight                     (Regular)
 version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
-Layout                     (AI0-SourceHanSerif)
-Subset                     (AI0-SourceHanSerif.JP)
+Layout                     (AI0-HanPeaceSerif)
+Subset                     (AI0-HanPeaceSerif.JP)
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150

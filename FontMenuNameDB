@@ -1,207 +1,207 @@
-[SourceHanSerif-ExtraLight]
+[HanPeaceSerif-ExtraLight]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,ExtraLight
 	l=3,1,0x411,\6E90\30CE\660E\671D ExtraLight
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=ExtraLight
-	l=Source Han Serif ExtraLight
+	l=Han Peace Serif ExtraLight
 
-[SourceHanSerif-Light]
+[HanPeaceSerif-Light]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Light
 	l=3,1,0x411,\6E90\30CE\660E\671D Light
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=Light
-	l=Source Han Serif Light
+	l=Han Peace Serif Light
 
-[SourceHanSerif-Regular]
+[HanPeaceSerif-Regular]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Regular
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=Regular
 
-[SourceHanSerif-Medium]
+[HanPeaceSerif-Medium]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Medium
 	l=3,1,0x411,\6E90\30CE\660E\671D Medium
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=Medium
-	l=Source Han Serif Medium
+	l=Han Peace Serif Medium
 
-[SourceHanSerif-SemiBold]
+[HanPeaceSerif-SemiBold]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,SemiBold
 	l=3,1,0x411,\6E90\30CE\660E\671D SemiBold
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=SemiBold
-	l=Source Han Serif SemiBold
+	l=Han Peace Serif SemiBold
 
-[SourceHanSerif-Bold]
+[HanPeaceSerif-Bold]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Bold
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=Bold
 
-[SourceHanSerif-Heavy]
+[HanPeaceSerif-Heavy]
 	f=3,1,0x411,\6E90\30CE\660E\671D
 	s=3,1,0x411,Heavy
 	l=3,1,0x411,\6E90\30CE\660E\671D Heavy
-	f=Source Han Serif
+	f=Han Peace Serif
 	s=Heavy
-	l=Source Han Serif Heavy
+	l=Han Peace Serif Heavy
 
-[SourceHanSerifK-ExtraLight]
+[HanPeaceSerifK-ExtraLight]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,ExtraLight
 	l=3,1,0x412,\BCF8\BA85\C870 ExtraLight
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=ExtraLight
-	l=Source Han Serif K ExtraLight
+	l=Han Peace Serif K ExtraLight
 
-[SourceHanSerifK-Light]
+[HanPeaceSerifK-Light]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Light
 	l=3,1,0x412,\BCF8\BA85\C870 Light
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=Light
-	l=Source Han Serif K Light
+	l=Han Peace Serif K Light
 
-[SourceHanSerifK-Regular]
+[HanPeaceSerifK-Regular]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Regular
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=Regular
 
-[SourceHanSerifK-Medium]
+[HanPeaceSerifK-Medium]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Medium
 	l=3,1,0x412,\BCF8\BA85\C870 Medium
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=Medium
-	l=Source Han Serif K Medium
+	l=Han Peace Serif K Medium
 
-[SourceHanSerifK-SemiBold]
+[HanPeaceSerifK-SemiBold]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,SemiBold
 	l=3,1,0x412,\BCF8\BA85\C870 SemiBold
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=SemiBold
-	l=Source Han Serif K SemiBold
+	l=Han Peace Serif K SemiBold
 
-[SourceHanSerifK-Bold]
+[HanPeaceSerifK-Bold]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Bold
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=Bold
 
-[SourceHanSerifK-Heavy]
+[HanPeaceSerifK-Heavy]
 	f=3,1,0x412,\BCF8\BA85\C870
 	s=3,1,0x412,Heavy
 	l=3,1,0x412,\BCF8\BA85\C870 Heavy
-	f=Source Han Serif K
+	f=Han Peace Serif K
 	s=Heavy
-	l=Source Han Serif K Heavy
+	l=Han Peace Serif K Heavy
 
-[SourceHanSerifSC-ExtraLight]
+[HanPeaceSerifSC-ExtraLight]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,ExtraLight
 	l=3,1,0x804,\601D\6E90\5B8B\4F53 ExtraLight
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=ExtraLight
-	l=Source Han Serif SC ExtraLight
+	l=Han Peace Serif SC ExtraLight
 
-[SourceHanSerifSC-Light]
+[HanPeaceSerifSC-Light]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Light
 	l=3,1,0x804,\601D\6E90\5B8B\4F53 Light
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=Light
-	l=Source Han Serif SC Light
+	l=Han Peace Serif SC Light
 
-[SourceHanSerifSC-Regular]
+[HanPeaceSerifSC-Regular]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Regular
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=Regular
 
-[SourceHanSerifSC-Medium]
+[HanPeaceSerifSC-Medium]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Medium
 	l=3,1,0x804,\601D\6E90\5B8B\4F53 Medium
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=Medium
-	l=Source Han Serif SC Medium
+	l=Han Peace Serif SC Medium
 
-[SourceHanSerifSC-SemiBold]
+[HanPeaceSerifSC-SemiBold]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,SemiBold
 	l=3,1,0x804,\601D\6E90\5B8B\4F53 SemiBold
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=SemiBold
-	l=Source Han Serif SC SemiBold
+	l=Han Peace Serif SC SemiBold
 
-[SourceHanSerifSC-Bold]
+[HanPeaceSerifSC-Bold]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Bold
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=Bold
 
-[SourceHanSerifSC-Heavy]
+[HanPeaceSerifSC-Heavy]
 	f=3,1,0x804,\601D\6E90\5B8B\4F53
 	s=3,1,0x804,Heavy
 	l=3,1,0x804,\601D\6E90\5B8B\4F53 Heavy
-	f=Source Han Serif SC
+	f=Han Peace Serif SC
 	s=Heavy
-	l=Source Han Serif SC Heavy
+	l=Han Peace Serif SC Heavy
 
-[SourceHanSerifTC-ExtraLight]
+[HanPeaceSerifTC-ExtraLight]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,ExtraLight
 	l=3,1,0x404,\601D\6E90\5B8B\9AD4 ExtraLight
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=ExtraLight
-	l=Source Han Serif TC ExtraLight
+	l=Han Peace Serif TC ExtraLight
 
-[SourceHanSerifTC-Light]
+[HanPeaceSerifTC-Light]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Light
 	l=3,1,0x404,\601D\6E90\5B8B\9AD4 Light
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=Light
-	l=Source Han Serif TC Light
+	l=Han Peace Serif TC Light
 
-[SourceHanSerifTC-Regular]
+[HanPeaceSerifTC-Regular]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Regular
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=Regular
 
-[SourceHanSerifTC-Medium]
+[HanPeaceSerifTC-Medium]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Medium
 	l=3,1,0x404,\601D\6E90\5B8B\9AD4 Medium
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=Medium
-	l=Source Han Serif TC Medium
+	l=Han Peace Serif TC Medium
 
-[SourceHanSerifTC-SemiBold]
+[HanPeaceSerifTC-SemiBold]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,SemiBold
 	l=3,1,0x404,\601D\6E90\5B8B\9AD4 SemiBold
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=SemiBold
-	l=Source Han Serif TC SemiBold
+	l=Han Peace Serif TC SemiBold
 
-[SourceHanSerifTC-Bold]
+[HanPeaceSerifTC-Bold]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Bold
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=Bold
 
-[SourceHanSerifTC-Heavy]
+[HanPeaceSerifTC-Heavy]
 	f=3,1,0x404,\601D\6E90\5B8B\9AD4
 	s=3,1,0x404,Heavy
 	l=3,1,0x404,\601D\6E90\5B8B\9AD4 Heavy
-	f=Source Han Serif TC
+	f=Han Peace Serif TC
 	s=Heavy
-	l=Source Han Serif TC Heavy
+	l=Han Peace Serif TC Heavy

@@ -1,13 +1,13 @@
-FontName                   (SourceHanSerifKR-Regular)
-FullName                   (Source Han Serif KR Regular)
-FamilyName                 (Source Han Serif KR)
+FontName                   (HanPeaceSerifKR-Regular)
+FullName                   (Han Peace Serif KR Regular)
+FamilyName                 (Han Peace Serif KR)
 Weight                     (Regular)
 version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
-Layout                     (AI0-SourceHanSerif)
-Subset                     (AI0-SourceHanSerif.KR)
+Layout                     (AI0-HanPeaceSerif)
+Subset                     (AI0-HanPeaceSerif.KR)
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150
