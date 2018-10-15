@@ -4,7 +4,7 @@
 
 "Han Peace Serif" is a font collection for Far-East Asia Languages (Chinese, Japanese and Korean).
 
-It contains "Han Peace Serif CN", "Han Peace Serif JP", "Han Peace Serif KR" and "Han Peace Serif TW".
+It contains "Han Peace Serif CN", "Han Peace Serif JP", "Han Peace Serif KR" and "Han Peace Serif TW" fonts.
 Hereby, "CN" stands for Chinese (Simpilified Chinese), "JP" stands for Japanese, "KR" stands for Korean, and "TW" stands for Taiwan (Traditional Chinese).
 
 ## HOW TO BUILD
